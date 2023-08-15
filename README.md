@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pradyumnv8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AwuahMXKbHF9Mzmf_NUnuG8pXGR5pKUd/view?usp=drive_link](https://drive.google.com/file/d/1AwuahMXKbHF9Mzmf_NUnuG8pXGR5pKUd/view?usp=drive_link)
+- 📄 Know about my experiences [https://www.linkedin.com/in/pradyumna-v-92a593200/](https://www.linkedin.com/in/pradyumna-v-92a593200/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
