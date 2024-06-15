@@ -9,16 +9,15 @@
 
 - 📫 How to reach me **pradyumnv8@gmail.com**
 
-- 📄 Know about my experiences [LikedIn](https://www.linkedin.com/in/pradyumna-web-developer/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/pradyumna-web-developer/)
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/firebrand121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firebrand121" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<div align="left">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -31,26 +30,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"  /
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwaind/tailwaind-original.svg" height="30" alt="tailwaind logo"  /
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" height="30" alt="tailwind logo"  /
+</p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradyumn8&show_icons=true&locale=en&layout=compact" alt="pradyumn8" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/firebrand121" target="blank">
-<div align="left">
-  <a href="https://instagram.com/firebrand121" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-    <a href="mailto:pradyumnv8@gmail.com">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-    </a>
-  <a href="https://www.linkedin.com/in/pradyumna-web-developer/" target="black"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradyumn8&show_icons=true&locale=en" alt="pradyumn8" /></p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradyumn8&" alt="pradyumn8" /></p>
