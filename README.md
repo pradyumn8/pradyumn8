@@ -28,12 +28,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"  /
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" height="30" alt="tailwind logo"  /
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradyumn8&show_icons=true&locale=en&layout=compact" alt="pradyumn8" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradyumn8&show_icons=true&locale=en&layout=compact" alt="pradyumn8" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradyumn8&show_icons=true&locale=en" alt="pradyumn8" /></p>
 
